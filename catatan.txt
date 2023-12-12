@@ -1,0 +1,41 @@
+1. output model1 itu cm
+
+2. di system itu udah ada measurements untuk body goalsnya
+
+3. hitung rate ke body goals (untuk input model 2)
+array rate_body = (ROUND(measurement_user/body_goals_measurements, 2))*10
+
+4. system nentuin latihannya cardio atau strength berdasarkan rate_body
+**rate_body > 10.00 (cardio)
+**rate_body <= 10.00 (strength)
+
+array = [strength, strengh, cardio]
+index 2 = cardio
+index 2 => waist
+index 2 > body_type = thigh
+
+kalo ada cardio, statis body_type pasti thigh
+
+model2 outputnya itu 1 latihan
+5. model2 dijalankan 6x (bicep (c/s), thigh (c/s), waist (c/s), stretching(bicep, thigh, waist))
+
+6. inputan model2 body_part(bicep, thigh, waist), rate_body(bicep, thigh, waist), sama type (stretching, cardio/ strength)
+
+7. Outputnya latihan untuk setiap model dijalankan
+
+generate 6 latihan
+cardio/strength, stretching
+user = [8.7 , 10.2 , 9.7]
+	bicep thigh waist
+9.8
+
+latihan_strength_bicep, latihan_cardio_thigh, latihan_strength_waist, stretching_bicep, stretching_thigh, stretching_waist
+
+
+
+bodygoals = [46.99 , 68.58 , 76.2]
+
+problem:
+latihan cardionya kurang :)
+
+
