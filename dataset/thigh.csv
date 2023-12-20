@@ -1,0 +1,148 @@
+No,Title,Type,BodyPart,Equipment,Level,Rating
+1337,Sled push-,Cardio,Thigh,Other,Beginner,7.4
+2000,Bicycling,Cardio,Thigh,Other,Intermediate,8.9
+2002,Skating,Cardio,Thigh,Other,Beginner,8.4
+2066,Stair climber,Cardio,Thigh,Machine,Intermediate,9.1
+2068,Elliptical trainer,Cardio,Thigh,Machine,Intermediate,8.8
+2071,Stairmaster,Cardio,Thigh,Machine,Intermediate,8.8
+2075,Treadmill running,Cardio,Thigh,Machine,Intermediate,8.4
+2076,Stationary bike,Cardio,Thigh,Machine,Intermediate,8.3
+2077,Treadmill jogging,Cardio,Thigh,Machine,Intermediate,8.3
+2078,Recumbent Bike,Cardio,Thigh,Machine,Beginner,8.2
+2118,Jumping rope,Cardio,Thigh,Body Only,Intermediate,9.2
+2123,Burpee,Cardio,Thigh,Body Only,Intermediate,8.8
+2124,Trail Running/Walking,Cardio,Thigh,Body Only,Intermediate,8.7
+2130,Treadmill walking,Cardio,Thigh,Body Only,Intermediate,8.2
+2134,Walking High Knees,Cardio,Thigh,Body Only,Intermediate,7.8
+662,Band Hip Adductions,Strength,Thigh,Bands,Beginner,8.6
+669,Thigh adductor,Strength,Thigh,Machine,Intermediate,9.0
+670,Thigh abductor,Strength,Thigh,Machine,Intermediate,8.2
+673,Fire Hydrant,Strength,Thigh,Body Only,Beginner,8.0
+677,Monster Walk,Strength,Thigh,Body Only,Intermediate,6.7
+1292,Barbell Deadlift,Strength,Thigh,Barbell,Intermediate,9.4
+1299,Power clean,Strength,Thigh,Barbell,Intermediate,8.7
+1304,Barbell stiff-legged deadlift,Strength,Thigh,Barbell,Intermediate,8.3
+1305,Romanian Deadlift,Strength,Thigh,Barbell,Intermediate,8.1
+1317,Kettlebell pass-through lunge,Strength,Thigh,Kettlebells,Intermediate,8.7
+1318,Kettlebell One-Legged Deadlift,Strength,Thigh,Kettlebells,Intermediate,8.6
+1319,Single-arm kettlebell clean,Strength,Thigh,Kettlebells,Beginner,8.6
+1320,Single-leg kettlebell deadlift,Strength,Thigh,Kettlebells,Intermediate,8.2
+1321,Romanian Deadlift with Kettlebell,Strength,Thigh,Kettlebells,Beginner,8.0
+1322,Single-arm kettlebell swing,Strength,Thigh,Kettlebells,Intermediate,7.4
+1323,Kettlebell Dead Clean,Strength,Thigh,Kettlebells,Beginner,5.3
+1324,Alternating Hang Clean,Strength,Thigh,Kettlebells,Beginner,4.9
+1329,Romanian Deadlift With Dumbbells,Strength,Thigh,Dumbbell,Beginner,9.4
+1330,Stiff-Legged Dumbbell Deadlift,Strength,Thigh,Dumbbell,Intermediate,8.8
+1348,Lying Leg Curls,Strength,Thigh,Machine,Beginner,8.9
+1350,Reverse Hyperextension,Strength,Thigh,Machine,Beginner,8.0
+1351,Seated Leg Curl,Strength,Thigh,Machine,Intermediate,7.9
+1352,Standing Leg Curl,Strength,Thigh,Machine,Beginner,7.4
+1353,Smith machine stiff-legged deadlift,Strength,Thigh,Machine,Beginner,7.0
+1367,Natural Glute Ham Raise,Strength,Thigh,Body Only,Beginner,9.1
+1402,Glute ham raise-,Strength,Thigh,,Beginner,9.1
+1408,Exercise ball leg curl,Strength,Thigh,Exercise Ball,Intermediate,8.8
+1781,Single-leg depth squat,Strength,Thigh,Bands,Intermediate,9.0
+1782,Squats - With Bands,Strength,Thigh,Bands,Beginner,5.8
+1799,Barbell Full Squat,Strength,Thigh,Barbell,Intermediate,9.4
+1804,Barbell walking lunge,Strength,Thigh,Barbell,Intermediate,9.2
+1806,Narrow-stance squat,Strength,Thigh,Barbell,Expert,9.0
+1808,Weighted Jump Squat,Strength,Thigh,Barbell,Beginner,9.0
+1810,Barbell Squat,Strength,Thigh,Barbell,Intermediate,8.9
+1811,Barbell front squat,Strength,Thigh,Barbell,Intermediate,8.9
+1812,Barbell forward lunge,Strength,Thigh,Barbell,Expert,8.8
+1813,Smith machine box squat,Strength,Thigh,Barbell,Intermediate,8.8
+1814,Barbell step-up,Strength,Thigh,Barbell,Intermediate,8.7
+1815,Barbell Bulgarian split squat,Strength,Thigh,Barbell,Intermediate,8.5
+1817,Barbell hack squat,Strength,Thigh,Barbell,Expert,8.5
+1818,Hack Squat,Strength,Thigh,Barbell,Intermediate,8.4
+1819,Barbell thruster,Strength,Thigh,Barbell,Intermediate,8.3
+1822,Barbell back squat,Strength,Thigh,Barbell,Intermediate,8.2
+1823,Zercher squat,Strength,Thigh,Barbell,Intermediate,8.1
+1824,Jefferson Squats,Strength,Thigh,Barbell,Beginner,8.0
+1826,Barbell side split squat,Strength,Thigh,Barbell,Intermediate,7.8
+1828,Barbell speed squat,Strength,Thigh,Barbell,Intermediate,7.7
+1829,Single-arm side deadlift,Strength,Thigh,Barbell,Expert,7.5
+1830,Barbell Squat To A Bench,Strength,Thigh,Barbell,Intermediate,7.4
+1832,Front Barbell Squat To A Bench,Strength,Thigh,Barbell,Beginner,5.3
+1872,Front Squats With Two Kettlebells,Strength,Thigh,Kettlebells,Beginner,9.2
+1873,Kettlebell Pistol Squat,Strength,Thigh,Kettlebells,Beginner,9.1
+1874,Goblet Squat,Strength,Thigh,Kettlebells,Intermediate,8.7
+1875,Kettlebell Curtsy Lunge,Strength,Thigh,Kettlebells,Beginner,7.7
+1876,Single-arm kettlebell overhead squat,Strength,Thigh,Kettlebells,Expert,7.0
+1915,Dumbbell Goblet Squat,Strength,Thigh,Dumbbell,Intermediate,8.9
+1916,Dumbbell squat,Strength,Thigh,Dumbbell,Intermediate,8.9
+1917,Dumbbell Lunges,Strength,Thigh,Dumbbell,Intermediate,8.8
+1918,Dumbbell reverse lunge,Strength,Thigh,Dumbbell,Intermediate,8.7
+1919,Split Squat with Dumbbells,Strength,Thigh,Dumbbell,Intermediate,8.6
+1920,Dumbbell sumo squat,Strength,Thigh,Dumbbell,Intermediate,8.3
+1922,Dumbbell step-up,Strength,Thigh,Dumbbell,Intermediate,8.2
+1923,Dumbbell Walking Lunge,Strength,Thigh,Dumbbell,Intermediate,7.3
+1924,Dumbbell Squat To A Bench,Strength,Thigh,Dumbbell,Beginner,7.0
+2001,Hex-bar deadlift,Strength,Thigh,Other,Intermediate,8.8
+2003,Weighted sissy squat,Strength,Thigh,Other,Intermediate,8.4
+2004,Dumbbell step-up,Strength,Thigh,Dumbbell,Intermediate,8.2
+2007,Weighted Squat,Strength,Thigh,Other,Beginner,7.2
+2011,Barbell squat with plate slide,Strength,Thigh,Other,Intermediate,6.7
+2012,Suspended split squat,Strength,Thigh,Other,Intermediate,6.5
+2062,Cable Hip Adduction,Strength,Thigh,Cable,Beginner,8.2
+2063,Cable Deadlifts,Strength,Thigh,Cable,Beginner,7.7
+2065,Single-Leg Press,Strength,Thigh,Machine,Intermediate,9.6
+2067,Leg Press,Strength,Thigh,Machine,Intermediate,8.8
+2069,Narrow-stance leg press,Strength,Thigh,Machine,Intermediate,8.8
+2070,Narrow Stance Hack Squats,Strength,Thigh,Machine,Beginner,8.8
+2072,Machine Squat,Strength,Thigh,Machine,Intermediate,8.8
+2073,Smith machine back squat,Strength,Thigh,Machine,Intermediate,8.7
+2074,Leg Extensions,Strength,Thigh,Machine,Intermediate,8.5
+2079,Smith machine leg press,Strength,Thigh,Machine,Intermediate,8.0
+2080,Lying Machine Squat,Strength,Thigh,Machine,Intermediate,8.0
+2081,Seated Leg Press,Strength,Thigh,Machine,Intermediate,7.7
+2082,Smith machine pistol squat,Strength,Thigh,Machine,Intermediate,7.0
+2119,Forward lunge,Strength,Thigh,Body Only,Intermediate,9.0
+2121,Bodyweight squat,Strength,Thigh,Body Only,Intermediate,8.8
+2127,Biceps-crossed jump squat,Strength,Thigh,Body Only,Intermediate,8.4
+2128,Bodyweight Reverse Lunge,Strength,Thigh,Body Only,Intermediate,8.3
+2133,Bodyweight Walking Lunge,Strength,Thigh,Body Only,Intermediate,8.0
+2135,Lateral lunge,Strength,Thigh,Body Only,Intermediate,7.8
+665,Iliotibial band SMR,Stretching,Thigh,Foam Roll,Intermediate,8.2
+666,Adductor SMR,Stretching,Thigh,Foam Roll,Beginner,4.0
+667,Lying Bent Leg Groin,Stretching,Thigh,Other,Beginner,2.8
+671,Standing Hip Circles,Stretching,Thigh,Body Only,Beginner,8.8
+672,Groiners,Stretching,Thigh,Body Only,Beginner,8.8
+674,Windmills,Stretching,Thigh,Body Only,Intermediate,8.0
+675,Side Leg Raises,Stretching,Thigh,Body Only,Beginner,7.7
+678,Side Lying Groin Stretch,Stretching,Thigh,Body Only,Intermediate,3.8
+679,IT Band and Glute Stretch,Stretching,Thigh,Body Only,Intermediate,2.4
+680,Single-leg lying cross-over stretch,Stretching,Thigh,Body Only,Beginner,1.6
+698,Groin and Back Stretch,Stretching,Thigh,,Beginner,7.1
+699,Adductor/Groin,Stretching,Thigh,,Beginner,3.6
+1290,Standing Hamstring and Calf Stretch,Stretching,Thigh,Bands,Intermediate,6.7
+1291,Hamstring-SMR,Stretching,Thigh,Foam Roll,Beginner,5.5
+1338,Lying Hamstring,Stretching,Thigh,Other,Beginner,6.3
+1339,Chair Leg Extended Stretch,Stretching,Thigh,Other,Beginner,2.4
+1368,Standing leg swing,Stretching,Thigh,Body Only,Beginner,8.4
+1371,Leg-Up Hamstring Stretch,Stretching,Thigh,Body Only,Intermediate,7.8
+1372,Inchworm,Stretching,Thigh,Body Only,Beginner,7.5
+1374,Lying groin stretch with band,Stretching,Thigh,Body Only,Intermediate,6.7
+1375,90/90 Hamstring,Stretching,Thigh,Body Only,Beginner,5.0
+1376,World's greatest stretch,Stretching,Thigh,Body Only,Intermediate,4.4
+1377,The Straddle,Stretching,Thigh,Body Only,Intermediate,4.3
+1403,Lying hamstring stretch with band,Stretching,Thigh,,Beginner,5.9
+1404,Upper Back-Leg Grab,Stretching,Thigh,,Beginner,5.4
+1405,Seated Hamstring,Stretching,Thigh,,Beginner,5.3
+1406,Alternating lunge jump,Stretching,Thigh,,Beginner,4.2
+1407,Runner's Stretch,Stretching,Thigh,,Intermediate,3.6
+1797,Thigh SMR,Stretching,Thigh,Foam Roll,Intermediate,5.4
+2013,Intermediate Hip Flexor and Quad Stretch,Stretching,Thigh,Other,Beginner,6.3
+2141,Kneeling hip flexor stretch,Stretching,Thigh,Body Only,Intermediate,5.4
+2142,Iron Crosses (stretch),Stretching,Thigh,Body Only,Intermediate,5.2
+2143,All Fours Quad Stretch,Stretching,Thigh,Body Only,Beginner,5.0
+2144,Lying quad stretch with band,Stretching,Thigh,Body Only,Intermediate,4.9
+2145,One Half Locust,Stretching,Thigh,Body Only,Intermediate,4.7
+2146,Standing Hip Flexors,Stretching,Thigh,Body Only,Intermediate,4.4
+2147,Looking At Ceiling,Stretching,Thigh,Body Only,Intermediate,4.3
+2148,Rear Leg Raises,Stretching,Thigh,Body Only,Beginner,3.4
+2149,On Your Side Quad Stretch,Stretching,Thigh,Body Only,Intermediate,3.3
+2150,On-Your-Back Quad Stretch,Stretching,Thigh,Body Only,Intermediate,3.3
+2151,Standing Elevated Quad Stretch,Stretching,Thigh,Body Only,Intermediate,2.7
+2419,Sit Squats,Stretching,Thigh,,Beginner,6.1
+2420,Frog Hops,Stretching,Thigh,,Beginner,3.9
